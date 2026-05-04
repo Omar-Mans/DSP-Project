@@ -6,7 +6,6 @@ A clean VS Code project for **Digital Signal Processing + Computer Vision** with
 2. **Move Mouse**
 3. **Volume Control**
 
-No Snapchat/AR buttons. No recording button. No unfinished features.
 
 ---
 
