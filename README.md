@@ -20,6 +20,13 @@ A clean VS Code project for **Digital Signal Processing + Computer Vision** with
 
 ---
 
+## Model Requirement
+
+This project requires the `hand_landmarker.task` file from MediaPipe Tasks. You must place this file in the project's root folder. You can download it directly from Google:
+[Download hand_landmarker.task](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task)
+
+---
+
 ## How to Run from VS Code
 
 1. Extract the zip file.
